@@ -1,0 +1,18 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Home-Header {
+  text-align: center;
+  font-size: 44px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.Movie-List {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
